@@ -1,0 +1,28 @@
+# Librerías principales
+streamlit>=1.37
+pandas>=2.2
+numpy>=1.26
+
+# Lectura y escritura de Excel
+openpyxl>=3.1
+xlsxwriter>=3.2
+
+# Utilidades generales
+requests>=2.31
+rapidfuzz>=3.9
+beautifulsoup4>=4.12
+
+# Manejo de fechas, rutas y expresiones regulares
+python-dateutil>=2.9
+pathlib>=1.0
+regex>=2023.12
+
+# Seguridad y normalización de texto
+html5lib>=1.1
+unicodedata2>=15.1
+
+# Logging y trazas
+traceback2>=1.4
+
+# Tipado y herramientas de desarrollo (opcional)
+typing-extensions>=4.10
